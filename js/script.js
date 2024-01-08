@@ -84,7 +84,6 @@ try {
 	const response = await fetch(url, options);
 	const result = await response.json();
 	result.hints.map((e)=>{
-        console.log(e.food);
         rawM.innerHTML+=`
         <div class="material">
             <img src="${e.food.image}" alt="">
