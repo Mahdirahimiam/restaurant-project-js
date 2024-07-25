@@ -36,11 +36,11 @@ Before you begin, ensure you have met the following requirements:
 2. Navigate to the project directory:
    cd restaurant-project-js
 
-Usage
+## Usage
 1. Open index.html in your web browser to view the project.
 2. For development, open the project folder in your code editor and start customizing the code as needed.
 
-Contributing
+## Contributing
 Contributions are welcome! Follow these steps to contribute:
 
 1. Fork the repository.
@@ -49,7 +49,7 @@ Contributions are welcome! Follow these steps to contribute:
 4. Push to the branch (git push origin feature-branch).
 5. Create a new Pull Request.
 
-License
+## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
