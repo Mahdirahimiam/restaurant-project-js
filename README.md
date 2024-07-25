@@ -19,7 +19,6 @@ This project is a restaurant website built with HTML, CSS, and JavaScript. It sh
 - Responsive design
 - Interactive menu
 - Online reservation form
-- Gallery of restaurant images
 - Contact form with validation
 
 ## Prerequisites
