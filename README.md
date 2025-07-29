@@ -52,6 +52,3 @@ Contributions are welcome! Follow these steps to contribute:
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-
-Make sure to replace the placeholder paths for the images with the actual paths where your images are stored.
-
